@@ -1,0 +1,64 @@
+body, html {
+    height: 100%;
+    margin: 0 auto;
+    width: 1200px;
+}
+
+#vid {
+    width: 600px;
+    height: 350px;
+    margin: 0 auto;
+}
+
+#sb {
+    margin: 0 auto;
+    width: 595px;
+    height: 170px;
+    overflow: auto;
+    border: 2px solid;
+}
+
+.sbBlock {
+    background: rgba(0, 0, 0, .9);
+    width: 650px;
+    height: 200px;
+    padding-top: 25px;
+    margin: 50px auto;
+}
+
+
+#sbutton {
+    width: 106px;
+    margin: 6px 0px 0px 8px;
+    min-height: 36px;
+    border: none;
+    background: #3F51B5;
+    color: #ffffff;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#sbutton:hover {
+    background: #ff5722;
+    color: #fff;
+    cursor: pointer;
+}
+
+
+.vidCover {
+    background: rgba(0, 0, 0, .9);
+    width: 650px;
+    height: 378px;
+    padding-top: 25px;
+    margin: 50px auto;
+    border-radius: 20px;
+}
+
+.hdplayer .big_play_button {
+    margin: -40px 0 0 -30px;
+}
+
+.hdplayer .big_play_button div {
+    margin: 20px 0 0 30px;
+}
+
